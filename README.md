@@ -8,8 +8,8 @@
 
 -   mail = example@qianxin.com
 -   key = abcdefgh12345678987654321hgfedcba
--   countMax = 5000    查询导出数量
--   searchMonth = 6    查询时间段（几月内）
+-   countMax = 5000      查询导出数量
+-   searchMonth = 6      查询时间段（几月内）
 
 按需修改即可。
 
